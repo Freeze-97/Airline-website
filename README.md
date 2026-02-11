@@ -1,4 +1,4 @@
-# ✈️ Airline_website
+# Airline_website
 
 A web-based airline booking system created as part of Lab 4 in a web development course. The goal was to simulate a flight booking interface with interactive seat selection, class differentiation, and persistent session data.
 
@@ -15,7 +15,7 @@ Seats change color based on their state:
 
 Once a booking is confirmed, a **boarding pass** is generated and displayed in a new tab.
 
-## 🧠 Key Features
+## Key Features
 
 - **Session Storage:** Booked seat data is saved in session storage so it persists across all pages during the session.
 - **Class-based Layout:** First and Economy classes are visually and functionally distinct.
@@ -23,7 +23,7 @@ Once a booking is confirmed, a **boarding pass** is generated and displayed in a
 - **Boarding Pass Generation:** Booked passengers receive a boarding pass in a new browser tab.
 - **Responsive and Styled Interface:** With images and CSS for improved UX.
 
-## 🔧 How to Use
+## How to Use
 
 1. Open `index.html` in your browser.
 2. Navigate to the **Booking** page to choose your seat.
